@@ -13,6 +13,8 @@ Welcome to this repository containing just an arithmetic calculator tool in Pyth
 
 ## Introduction
 
+The following code embodies a calculator application that features a graphical user interface (GUI), characterized by its simplicity and utilitarian nature.
+
 ## Dependencies
 
 To run this implementation, you need:
