@@ -3,10 +3,19 @@ import tkinter as tk
 calculation = ""
 
 def add_to_calculation():
-    pass
+    global calculation
+    calculation += (symbol)
+    text_result.delete(1.0, calculation)
 
 def evaluate_calculation():
-    pass
+    global calculation
+    try:
+        calculation = str(eval(calculation))
+        text_result.delete(1.0, "end")
+        text_result.
+
+    except: 
+        pass
 
 def clear_field():
     pass
