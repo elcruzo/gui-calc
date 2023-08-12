@@ -5,6 +5,7 @@ Welcome to this repository containing just an arithmetic calculator tool in Pyth
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Example](#example)
